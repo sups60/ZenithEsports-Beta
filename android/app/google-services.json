@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853211084883",
+    "project_id": "zenith-esports-nepal",
+    "storage_bucket": "zenith-esports-nepal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853211084883:android:361e3683f2c79323bcaea6",
+        "android_client_info": {
+          "package_name": "com.example.Zenith_Esports_Nepal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853211084883-uo82jia48k81i0v9851s6d35dpbv1ef0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCECi64wTF1kmd4Uu8qQyDOMsf7X0g6lRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853211084883-uo82jia48k81i0v9851s6d35dpbv1ef0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
