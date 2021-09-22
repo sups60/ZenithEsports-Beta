@@ -1,6 +1,7 @@
 # ZenithEsports-Beta
 
- ![22855396](https://user-images.githubusercontent.com/27767762/134303924-c0e52b66-530f-4446-9dd7-6c69932b4cc5.jpg)
+
+![22855396](https://user-images.githubusercontent.com/27767762/134304120-b540f582-4d75-403e-8edf-65fbf6955dcc.jpg)
 
 This is the first android version of pubg registration.
  Requirements:
